@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Proj/GymJam/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Unreal Proj/GymJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Unreal Proj/GymJam/Content/FirstPerson/Blueprints/BP_CameraShake.uasset",
+				"C:/Unreal Proj/GymJam/Content/FirstPerson/Blueprints/BP_Camera.uasset",
+				"C:/Unreal Proj/GymJam/Content/StarterContent/Maps/LevelTest.umap",
+				"C:/Unreal Proj/GymJam/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Unreal Proj/GymJam/Content/StarterContent/Maps/_GENERATED/utente/CubeGridToolOutput_A7C17249.uasset",
+				"C:/Unreal Proj/GymJam/Content/StarterContent/Maps/_GENERATED/utente/CubeGridToolOutput_F6ABF9B3.uasset",
+				"C:/Unreal Proj/GymJam/Content/StarterContent/Maps/_GENERATED/utente/CubeGridToolOutput_2C1F9EC9.uasset",
+				"C:/Unreal Proj/GymJam/Content/FirstPerson/Blueprints/BP_Desk.uasset",
+				"C:/Unreal Proj/GymJam/Content/FirstPerson/Blueprints/BP_ToyDuck.uasset",
+				"C:/Unreal Proj/GymJam/Content/FirstPerson/Blueprints/BP_Chest.uasset"
+			]
+		}
+	]
+}
